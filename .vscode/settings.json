@@ -1,0 +1,6 @@
+{
+    "powermode.enabled": true,
+    "python.pythonPath": "G:\\pyenv\\envs\\yzp2env\\Scripts\\python.exe",
+    "python.venvPath": "G:\\pyenv\\envs\\yzp2env",
+    "terminal.integrated.shellArgs.windows": ["-ExecutionPolicy", "Bypass"]
+}
