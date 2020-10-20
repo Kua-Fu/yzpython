@@ -1,6 +1,9 @@
 {
     "powermode.enabled": true,
-    "python.pythonPath": "G:\\pyenv\\envs\\yzp2env\\Scripts\\python.exe",
-    "python.venvPath": "G:\\pyenv\\envs\\yzp2env",
-    "terminal.integrated.shellArgs.windows": ["-ExecutionPolicy", "Bypass"]
+    "python.pythonPath": "G:\\python\\python3\\python3.8.6\\python.exe",
+    "terminal.integrated.shellArgs.windows": [
+        "-ExecutionPolicy",
+        "Bypass"
+    ],
+    "python.formatting.provider": "yapf"
 }
